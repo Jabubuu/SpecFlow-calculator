@@ -1,0 +1,281 @@
+﻿2019-12-03T00:27:33.9285198+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-03T00:27:33.9288358+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.37 in Framework netcore30 in x64 mode execution started
+2019-12-03T00:27:33.9288415+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-03T00:27:33.9587699+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\SpecFlowLaskin.dll
+2019-12-03T00:27:33.9590027+02:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\TestResults" (default)
+2019-12-03T00:27:33.9590623+02:00;VSTestExecutionThread;Info;Profile: 
+2019-12-03T00:27:33.9898981+02:00;VSTestExecutionThread;Info;Log file path: C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\TestResults\Unnamed project__2019-12-03T002733.log
+2019-12-03T00:27:33.9953170+02:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-03T00:27:34.0037584+02:00;Thread#12;Info;Checking license
+2019-12-03T00:27:34.0272778+02:00;Thread#12;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2019-12-03T00:27:42.0280572+02:00;Thread#12;Info;Evaluation delay finished.
+2019-12-03T00:27:42.0357079+02:00;Thread#12;Info;License check completed
+2019-12-03T00:27:42.0364132+02:00;Thread#12;Info;starting test run
+2019-12-03T00:27:42.0446332+02:00;Thread#12;Info;Discovering target: Default
+2019-12-03T00:27:42.0448150+02:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\SpecFlowLaskin.dll
+2019-12-03T00:27:42.1412619+02:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\SpecFlowLaskin.dll
+2019-12-03T00:27:42.1451825+02:00:Test Suite Dump
+2019-12-03T00:27:42.1477850+02:00:#0: Unnamed project/ - 
+2019-12-03T00:27:42.1479506+02:00:#1: Default - 
+2019-12-03T00:27:42.1479570+02:00:#2: SpecFlowLaskin - 
+2019-12-03T00:27:42.1479686+02:00:#3: Calculator - 
+2019-12-03T00:27:42.1493992+02:00:#4: Add two numbers - TestAssembly:SpecFlowLaskin/Feature:Calculator/Scenario:Add+two+numbers
+2019-12-03T00:27:42.1494661+02:00:End: Test Suite Dump
+2019-12-03T00:27:42.1764476+02:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-03T00:27:42.1814063+02:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-12-03T00:27:42.1815096+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-03T00:27:42.1857025+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-03T00:27:42.1857191+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-03T00:27:42.1857209+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-03T00:27:42.1857251+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-03T00:27:42.1864708+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-03T00:27:42.1897716+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-03T00:27:42.1955076+02:00:Thread #0: creating new test thread executor for SpecFlowLaskin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-03T00:27:42.1980394+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2019-12-03T00:27:42.1982038+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2019-12-03T00:27:42.2081534+02:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2019-12-03T00:27:42.2098745+02:00:starting Out Of Process Executor
+2019-12-03T00:27:42.2140484+02:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:42.2166169+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:42.2169355+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll'
+2019-12-03T00:27:42.2170712+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Validation.exe'
+2019-12-03T00:27:42.2171437+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:42.2180328+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2019-12-03T00:27:42.2180476+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2019-12-03T00:27:42.2255427+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:42.2255600+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\Microsoft.VisualStudio.Validation.dll'
+2019-12-03T00:27:42.2256321+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\Microsoft.VisualStudio.Validation.exe'
+2019-12-03T00:27:42.2256832+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:42.2259315+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:42.2259397+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\Microsoft.VisualStudio.Validation.dll'
+2019-12-03T00:27:42.2259908+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\Microsoft.VisualStudio.Validation.exe'
+2019-12-03T00:27:42.2260373+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:42.2262498+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:42.2262630+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\Microsoft.VisualStudio.Validation.dll'
+2019-12-03T00:27:42.2263171+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\Microsoft.VisualStudio.Validation.exe'
+2019-12-03T00:27:42.2263670+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:42.2315674+02:00:Starting callback TCP Rpc server
+2019-12-03T00:27:42.2539931+02:00:Asynchronously starting background TCP Rpc Server on port 32768
+2019-12-03T00:27:42.2540359+02:00:Started callback TCP Rpc server on port 32768
+2019-12-03T00:27:42.2540382+02:00:Starting logger TCP Rpc server
+2019-12-03T00:27:42.2567892+02:00:Asynchronously starting background TCP Rpc Server on port 32769
+2019-12-03T00:27:42.2568211+02:00:Started logger TCP Rpc server on port 32769
+2019-12-03T00:27:42.3453061+02:00:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' 'exec "C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll" --remoteRunnerPid 11844 --uniqueId "2019-12-03T002733" --outputFolder "C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:42.3552929+02:00:Executor with PID 13488 has been started successfully.
+2019-12-03T00:27:42.3595362+02:00:Out of Process Executor 13488 started
+2019-12-03T00:27:42.3595507+02:00:Waiting for endpoint
+2019-12-03T00:27:42.7505595+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fi-FI, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:42.7505817+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:42.7505907+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\StreamJsonRpc.resources.dll'
+2019-12-03T00:27:42.7506421+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\StreamJsonRpc.resources.exe'
+2019-12-03T00:27:42.7506951+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:42.7506981+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2019-12-03T00:27:42.7507012+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2019-12-03T00:27:42.7515645+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:42.7515750+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\StreamJsonRpc.resources.dll'
+2019-12-03T00:27:42.7516268+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\StreamJsonRpc.resources.exe'
+2019-12-03T00:27:42.7516741+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:42.7518899+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:42.7519017+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\StreamJsonRpc.resources.dll'
+2019-12-03T00:27:42.7519548+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\StreamJsonRpc.resources.exe'
+2019-12-03T00:27:42.7519992+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:42.7522112+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:42.7522177+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\StreamJsonRpc.resources.dll'
+2019-12-03T00:27:42.7522668+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\StreamJsonRpc.resources.exe'
+2019-12-03T00:27:42.7523186+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:42.7530152+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fi, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:42.7538007+02:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:42.7538170+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:42.7538187+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Threading.dll'
+2019-12-03T00:27:42.7538727+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Threading.exe'
+2019-12-03T00:27:42.7539430+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:42.7539465+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2019-12-03T00:27:42.7539494+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2019-12-03T00:27:42.7545962+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:42.7546159+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\Microsoft.VisualStudio.Threading.dll'
+2019-12-03T00:27:42.7546638+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\Microsoft.VisualStudio.Threading.exe'
+2019-12-03T00:27:42.7547051+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:42.7549152+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:42.7549207+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\Microsoft.VisualStudio.Threading.dll'
+2019-12-03T00:27:42.7549703+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\Microsoft.VisualStudio.Threading.exe'
+2019-12-03T00:27:42.7600274+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:42.7603102+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:42.7603167+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\Microsoft.VisualStudio.Threading.dll'
+2019-12-03T00:27:42.7603687+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\Microsoft.VisualStudio.Threading.exe'
+2019-12-03T00:27:42.7604162+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:43.5432681+02:00:Remote executor port received: 32770
+2019-12-03T00:27:43.5437386+02:00:Creating executor TCP client on port 32770
+2019-12-03T00:27:43.5442908+02:00:Created executor TCP client on port 32770
+2019-12-03T00:27:43.5442975+02:00:Connecting to remote executor TCP server
+2019-12-03T00:27:43.5451919+02:00:Connected remote executor TCP server
+2019-12-03T00:27:43.5453371+02:00:trying to connect to Out of Process Executor the 1 attempt
+2019-12-03T00:27:43.5453454+02:00:Connection to Out of Process Executor established in the 1 attempt
+2019-12-03T00:27:43.6893431+02:00:2019-12-03T00:27:43.6881137+02:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\SpecFlowLaskin.dll on test thread #0
+2019-12-03T00:27:43.6943883+02:00:Endpoint 13488 started
+2019-12-03T00:27:43.7118846+02:00:2019-12-03T00:27:43.7115795+02:00:OutOfProcessTestAssemblyExecutor: running tests...
+2019-12-03T00:27:43.8303375+02:00:2019-12-03T00:27:43.8300305+02:00:Thread#0:T:2019-12-03T00:27:43.8278641+02:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-12-03T00:27:43.8342446+02:00:2019-12-03T00:27:43.8338681+02:00:Thread#0:T:2019-12-03T00:27:43.8335434+02:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:43.8433408+02:00:2019-12-03T00:27:43.8429599+02:00:Thread#0:T:2019-12-03T00:27:43.8425297+02:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\TechTalk.SpecFlow.dll'
+2019-12-03T00:27:43.8444373+02:00:2019-12-03T00:27:43.8441566+02:00:Thread#0:T:2019-12-03T00:27:43.8439140+02:00:[AssemblyCache] Found file 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\TechTalk.SpecFlow.dll' for assembly 'TechTalk.SpecFlow'
+2019-12-03T00:27:43.8478757+02:00:2019-12-03T00:27:43.8466693+02:00:Thread#0:T:2019-12-03T00:27:43.8462908+02:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\TechTalk.SpecFlow.dll
+2019-12-03T00:27:43.9594641+02:00:2019-12-03T00:27:43.9590751+02:00:Thread#0:T:-> Loading plugin C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-03T00:27:43.9619265+02:00:2019-12-03T00:27:43.9614153+02:00:Thread#0:T:2019-12-03T00:27:43.9611453+02:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-12-03T00:27:43.9686119+02:00:2019-12-03T00:27:43.9677732+02:00:Thread#0:T:-> Using default config
+2019-12-03T00:27:43.9863630+02:00:2019-12-03T00:27:43.9848575+02:00:Thread#0:T:2019-12-03T00:27:43.9831561+02:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2019-12-03T00:27:43.9879840+02:00:2019-12-03T00:27:43.9875983+02:00:Thread#0:T:2019-12-03T00:27:43.9872609+02:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:43.9889152+02:00:2019-12-03T00:27:43.9886804+02:00:Thread#0:T:2019-12-03T00:27:43.9884388+02:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Cucumber.Messages.dll'
+2019-12-03T00:27:43.9901168+02:00:2019-12-03T00:27:43.9898634+02:00:Thread#0:T:2019-12-03T00:27:43.9895098+02:00:[AssemblyCache] Found file 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Cucumber.Messages.dll' for assembly 'Cucumber.Messages'
+2019-12-03T00:27:43.9924111+02:00:2019-12-03T00:27:43.9921086+02:00:Thread#0:T:2019-12-03T00:27:43.9918396+02:00:[AssemblyCache] Resolved 'Cucumber.Messages' to C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Cucumber.Messages.dll
+2019-12-03T00:27:43.9938001+02:00:2019-12-03T00:27:43.9934673+02:00:Thread#0:T:2019-12-03T00:27:43.9932254+02:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2019-12-03T00:27:43.9946394+02:00:2019-12-03T00:27:43.9944360+02:00:Thread#0:T:2019-12-03T00:27:43.9942120+02:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:43.9955586+02:00:2019-12-03T00:27:43.9953583+02:00:Thread#0:T:2019-12-03T00:27:43.9951173+02:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Google.Protobuf.dll'
+2019-12-03T00:27:43.9965320+02:00:2019-12-03T00:27:43.9963329+02:00:Thread#0:T:2019-12-03T00:27:43.9960982+02:00:[AssemblyCache] Found file 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Google.Protobuf.dll' for assembly 'Google.Protobuf'
+2019-12-03T00:27:43.9984917+02:00:2019-12-03T00:27:43.9982489+02:00:Thread#0:T:2019-12-03T00:27:43.9980085+02:00:[AssemblyCache] Resolved 'Google.Protobuf' to C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+2019-12-03T00:27:44.0084984+02:00:2019-12-03T00:27:44.0073715+02:00:Thread#0:T:2019-12-03T00:27:44.0070869+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:44.0096208+02:00:2019-12-03T00:27:44.0093514+02:00:Thread#0:T:2019-12-03T00:27:44.0091180+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:44.0105072+02:00:2019-12-03T00:27:44.0103185+02:00:Thread#0:T:2019-12-03T00:27:44.0100902+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2019-12-03T00:27:44.0114708+02:00:2019-12-03T00:27:44.0112854+02:00:Thread#0:T:2019-12-03T00:27:44.0110622+02:00:[AssemblyCache] Found file 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll' for assembly 'Microsoft.VisualStudio.TestPlatform.ObjectModel'
+2019-12-03T00:27:44.0135888+02:00:2019-12-03T00:27:44.0131615+02:00:Thread#0:T:2019-12-03T00:27:44.0128410+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+2019-12-03T00:27:44.0374567+02:00:2019-12-03T00:27:44.0371643+02:00:Thread#0:T:2019-12-03T00:27:44.0367776+02:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2019-12-03T00:27:44.0385403+02:00:2019-12-03T00:27:44.0383502+02:00:Thread#0:T:2019-12-03T00:27:44.0381020+02:00:[AssemblyCache] Trying to resolve 'Utf8Json' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:44.0396617+02:00:2019-12-03T00:27:44.0394333+02:00:Thread#0:T:2019-12-03T00:27:44.0391999+02:00:[AssemblyCache] Trying to resolve 'Utf8Json' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Utf8Json.dll'
+2019-12-03T00:27:44.0406281+02:00:2019-12-03T00:27:44.0404421+02:00:Thread#0:T:2019-12-03T00:27:44.0402122+02:00:[AssemblyCache] Found file 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Utf8Json.dll' for assembly 'Utf8Json'
+2019-12-03T00:27:44.0430558+02:00:2019-12-03T00:27:44.0427440+02:00:Thread#0:T:2019-12-03T00:27:44.0424279+02:00:[AssemblyCache] Resolved 'Utf8Json' to C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Utf8Json.dll
+2019-12-03T00:27:44.2366001+02:00:Thread#0: Test #4/0 is started on thread #0
+2019-12-03T00:27:44.2623078+02:00:2019-12-03T00:27:44.2610607+02:00:Thread#0:B:Given I have entered 232 into the calculator
+2019-12-03T00:27:44.2832189+02:00:2019-12-03T00:27:44.2828765+02:00:Thread#0:T:2019-12-03T00:27:44.2821342+02:00:Assembly resolving Example, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2019-12-03T00:27:44.2843383+02:00:2019-12-03T00:27:44.2840368+02:00:Thread#0:T:2019-12-03T00:27:44.2837121+02:00:[AssemblyCache] Trying to resolve 'Example' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:44.2853212+02:00:2019-12-03T00:27:44.2851103+02:00:Thread#0:T:2019-12-03T00:27:44.2847678+02:00:[AssemblyCache] Trying to resolve 'Example' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Example.dll'
+2019-12-03T00:27:44.2864403+02:00:2019-12-03T00:27:44.2862214+02:00:Thread#0:T:2019-12-03T00:27:44.2858620+02:00:[AssemblyCache] Found file 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Example.dll' for assembly 'Example'
+2019-12-03T00:27:44.2883005+02:00:2019-12-03T00:27:44.2879114+02:00:Thread#0:T:2019-12-03T00:27:44.2876453+02:00:[AssemblyCache] Resolved 'Example' to C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Example.dll
+2019-12-03T00:27:44.2935005+02:00:2019-12-03T00:27:44.2931933+02:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(232) (0,0s)
+2019-12-03T00:27:44.2948207+02:00:2019-12-03T00:27:44.2946037+02:00:Thread#0:B:And I have also entered 434 into the calculator
+2019-12-03T00:27:44.2963056+02:00:2019-12-03T00:27:44.2959190+02:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(434) (0,0s)
+2019-12-03T00:27:44.2970694+02:00:2019-12-03T00:27:44.2968295+02:00:Thread#0:B:When I press add
+2019-12-03T00:27:44.2990067+02:00:2019-12-03T00:27:44.2987144+02:00:Thread#0:T:done: CalculatorSteps.WhenIPressAdd() (0,0s)
+2019-12-03T00:27:44.2996861+02:00:2019-12-03T00:27:44.2994732+02:00:Thread#0:B:Then the result should be 600 on the screen
+2019-12-03T00:27:44.3008753+02:00:2019-12-03T00:27:44.3006686+02:00:Thread#0:T:2019-12-03T00:27:44.3003957+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:44.3019235+02:00:2019-12-03T00:27:44.3016826+02:00:Thread#0:T:2019-12-03T00:27:44.3014332+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:44.3030103+02:00:2019-12-03T00:27:44.3027652+02:00:Thread#0:T:2019-12-03T00:27:44.3024512+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll'
+2019-12-03T00:27:44.3043446+02:00:2019-12-03T00:27:44.3040450+02:00:Thread#0:T:2019-12-03T00:27:44.3036779+02:00:[AssemblyCache] Found file 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll' for assembly 'Microsoft.VisualStudio.TestPlatform.TestFramework'
+2019-12-03T00:27:44.3065993+02:00:2019-12-03T00:27:44.3062665+02:00:Thread#0:T:2019-12-03T00:27:44.3059815+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.TestFramework' to C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+2019-12-03T00:27:44.3097398+02:00:2019-12-03T00:27:44.3094177+02:00:Thread#0:T:2019-12-03T00:27:44.3090709+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Culture=neutral, PublicKeyToken=null
+2019-12-03T00:27:44.3115613+02:00:2019-12-03T00:27:44.3112382+02:00:Thread#0:T:2019-12-03T00:27:44.3108380+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework.resources, Version=14.0.0.0, Culture=fi-FI, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:45.0291037+02:00:2019-12-03T00:27:44.3130020+02:00:Thread#0:T:2019-12-03T00:27:44.3126921+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:45.0314934+02:00:2019-12-03T00:27:45.0305402+02:00:Thread#0:T:2019-12-03T00:27:45.0301794+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2019-12-03T00:27:45.0341070+02:00:2019-12-03T00:27:45.0331810+02:00:Thread#0:T:2019-12-03T00:27:45.0327798+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2019-12-03T00:27:45.0364621+02:00:2019-12-03T00:27:45.0356368+02:00:Thread#0:T:2019-12-03T00:27:45.0352746+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:45.0393764+02:00:2019-12-03T00:27:45.0386765+02:00:Thread#0:T:2019-12-03T00:27:45.0383295+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' from .deps.json file
+2019-12-03T00:27:45.0405872+02:00:2019-12-03T00:27:45.0403553+02:00:Thread#0:T:2019-12-03T00:27:45.0401165+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' from .deps.json
+2019-12-03T00:27:45.0495814+02:00:2019-12-03T00:27:45.0492346+02:00:Thread#0:T:2019-12-03T00:27:45.0488695+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:45.0504980+02:00:2019-12-03T00:27:45.0502810+02:00:Thread#0:T:2019-12-03T00:27:45.0500347+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2019-12-03T00:27:45.0514517+02:00:2019-12-03T00:27:45.0512469+02:00:Thread#0:T:2019-12-03T00:27:45.0510027+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2019-12-03T00:27:45.0524195+02:00:2019-12-03T00:27:45.0522137+02:00:Thread#0:T:2019-12-03T00:27:45.0519506+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:45.0535977+02:00:2019-12-03T00:27:45.0533830+02:00:Thread#0:T:2019-12-03T00:27:45.0531412+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:45.0544188+02:00:2019-12-03T00:27:45.0542371+02:00:Thread#0:T:2019-12-03T00:27:45.0539993+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2019-12-03T00:27:45.0553500+02:00:2019-12-03T00:27:45.0551571+02:00:Thread#0:T:2019-12-03T00:27:45.0548930+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2019-12-03T00:27:45.0565766+02:00:2019-12-03T00:27:45.0563186+02:00:Thread#0:T:2019-12-03T00:27:45.0559468+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:45.0577602+02:00:2019-12-03T00:27:45.0575463+02:00:Thread#0:T:2019-12-03T00:27:45.0573131+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:45.0586670+02:00:2019-12-03T00:27:45.0584601+02:00:Thread#0:T:2019-12-03T00:27:45.0582102+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2019-12-03T00:27:45.0596831+02:00:2019-12-03T00:27:45.0594718+02:00:Thread#0:T:2019-12-03T00:27:45.0592315+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2019-12-03T00:27:45.0606392+02:00:2019-12-03T00:27:45.0604323+02:00:Thread#0:T:2019-12-03T00:27:45.0601983+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:45.0694231+02:00:2019-12-03T00:27:45.0691196+02:00:Thread#0:T:2019-12-03T00:27:45.0688423+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Culture=neutral, PublicKeyToken=null
+2019-12-03T00:27:45.0706839+02:00:2019-12-03T00:27:45.0704329+02:00:Thread#0:T:2019-12-03T00:27:45.0701774+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework.resources, Version=14.0.0.0, Culture=fi, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:45.0945770+02:00:2019-12-03T00:27:45.0942676+02:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<600>. Actual:<666>. 
+2019-12-03T00:27:45.1162556+02:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-12-03T00:27:45.1182092+02:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-03T00:27:45.1182599+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-12-03T00:27:45.1182638+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-03T00:27:45.1183211+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-03T00:27:45.1183258+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-03T00:27:45.1183285+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-03T00:27:45.1183299+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-03T00:27:45.1183586+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-03T00:27:45.1183861+02:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-12-03T00:27:45.1647315+02:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,9269946 seconds
+2019-12-03T00:27:45.1670698+02:00:Thread#0: Test #4/1 is started on thread #0
+2019-12-03T00:27:45.1680651+02:00:2019-12-03T00:27:45.1678398+02:00:Thread#0:B:Given I have entered 232 into the calculator
+2019-12-03T00:27:45.1689072+02:00:2019-12-03T00:27:45.1686205+02:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(232) (0,0s)
+2019-12-03T00:27:45.1692872+02:00:2019-12-03T00:27:45.1691171+02:00:Thread#0:B:And I have also entered 434 into the calculator
+2019-12-03T00:27:45.1697362+02:00:2019-12-03T00:27:45.1695372+02:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(434) (0,0s)
+2019-12-03T00:27:45.1702734+02:00:2019-12-03T00:27:45.1699143+02:00:Thread#0:B:When I press add
+2019-12-03T00:27:45.1713433+02:00:2019-12-03T00:27:45.1708758+02:00:Thread#0:T:done: CalculatorSteps.WhenIPressAdd() (0,0s)
+2019-12-03T00:27:45.1719249+02:00:2019-12-03T00:27:45.1717051+02:00:Thread#0:B:Then the result should be 600 on the screen
+2019-12-03T00:27:45.1733274+02:00:2019-12-03T00:27:45.1731046+02:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<600>. Actual:<666>. 
+2019-12-03T00:27:45.1752092+02:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-03T00:27:45.1752368+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-12-03T00:27:45.1752393+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-03T00:27:45.1752731+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-03T00:27:45.1752773+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-03T00:27:45.1752788+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-03T00:27:45.1752812+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-03T00:27:45.1752899+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-03T00:27:45.1752962+02:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-12-03T00:27:45.1768122+02:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0096743 seconds
+2019-12-03T00:27:45.1772630+02:00:Thread#0: Test #4/2 is started on thread #0
+2019-12-03T00:27:45.1782985+02:00:2019-12-03T00:27:45.1776625+02:00:Thread#0:B:Given I have entered 232 into the calculator
+2019-12-03T00:27:45.1790886+02:00:2019-12-03T00:27:45.1787974+02:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(232) (0,0s)
+2019-12-03T00:27:45.1795364+02:00:2019-12-03T00:27:45.1793703+02:00:Thread#0:B:And I have also entered 434 into the calculator
+2019-12-03T00:27:45.1799929+02:00:2019-12-03T00:27:45.1798324+02:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(434) (0,0s)
+2019-12-03T00:27:45.1802895+02:00:2019-12-03T00:27:45.1801472+02:00:Thread#0:B:When I press add
+2019-12-03T00:27:45.1806726+02:00:2019-12-03T00:27:45.1804908+02:00:Thread#0:T:done: CalculatorSteps.WhenIPressAdd() (0,0s)
+2019-12-03T00:27:45.1810906+02:00:2019-12-03T00:27:45.1809387+02:00:Thread#0:B:Then the result should be 600 on the screen
+2019-12-03T00:27:45.1825832+02:00:2019-12-03T00:27:45.1823171+02:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<600>. Actual:<666>. 
+2019-12-03T00:27:45.1837095+02:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-03T00:27:45.1837262+02:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-03T00:27:45.1837294+02:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-03T00:27:45.1837311+02:00:Thread#0:Scheduler: No more tests for thread
+2019-12-03T00:27:45.1944887+02:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0171833 seconds
+2019-12-03T00:27:45.2012874+02:00:2019-12-03T00:27:45.2010589+02:00:Got Deinitialize Signal
+2019-12-03T00:27:45.2052092+02:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2019-12-03T00:27:45.2077228+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2019-12-03T00:27:45.2079739+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2019-12-03T00:27:45.2094771+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.1.0, Culture=fi-FI, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:45.2095407+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:45.2095433+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\System.Diagnostics.Process.resources.dll'
+2019-12-03T00:27:45.2096784+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0\System.Diagnostics.Process.resources.exe'
+2019-12-03T00:27:45.2098475+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\SpecFlowLaskin\bin\Debug\netcoreapp3.0'
+2019-12-03T00:27:45.2098573+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2019-12-03T00:27:45.2098602+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2019-12-03T00:27:45.2109539+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:45.2109633+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\System.Diagnostics.Process.resources.dll'
+2019-12-03T00:27:45.2110209+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0\System.Diagnostics.Process.resources.exe'
+2019-12-03T00:27:45.2111314+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0'
+2019-12-03T00:27:45.2113823+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:45.2113864+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\System.Diagnostics.Process.resources.dll'
+2019-12-03T00:27:45.2114417+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0\System.Diagnostics.Process.resources.exe'
+2019-12-03T00:27:45.2115381+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0'
+2019-12-03T00:27:45.2117996+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:45.2118043+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\System.Diagnostics.Process.resources.dll'
+2019-12-03T00:27:45.2118625+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0\System.Diagnostics.Process.resources.exe'
+2019-12-03T00:27:45.2119098+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.0.0'
+2019-12-03T00:27:45.2123286+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.1.0, Culture=fi, PublicKeyToken=b03f5f7f11d50a3a
+2019-12-03T00:27:45.2204157+02:00:Thread#-1:Scheduler: get next test for thread -1
+2019-12-03T00:27:45.2204287+02:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-03T00:27:45.2204306+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-03T00:27:45.2282171+02:00;Thread#12;Info;test run finished
+2019-12-03T00:27:45.2287340+02:00;Thread#12;Info;publishing test results
+2019-12-03T00:27:45.2289500+02:00;Thread#12;Info;Not publishing results.
+2019-12-03T00:27:45.2290298+02:00;Thread#12;Info;test results published
+2019-12-03T00:27:45.2290732+02:00;Thread#12;Info;generating reports
+2019-12-03T00:27:45.3253671+02:00;Thread#12;Info;Starting external report generation process
+2019-12-03T00:27:46.8995207+02:00;Thread#12;Info;Successfully generated reports.
+2019-12-03T00:27:46.9016159+02:00;Thread#12;Info;Successfully generated reports
+2019-12-03T00:27:46.9086268+02:00:Total: 1 (test executions: 3)
+2019-12-03T00:27:46.9106093+02:00:Succeeded: 0
+2019-12-03T00:27:46.9109047+02:00:Ignored: 0
+2019-12-03T00:27:46.9112922+02:00:Pending: 0
+2019-12-03T00:27:46.9113014+02:00:Skipped: 0
+2019-12-03T00:27:46.9115362+02:00:Failed: 1
+2019-12-03T00:27:46.9164746+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-03T00:27:46.9165293+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Japu\Documents\Koulu\VS\SpecFlowLaskin\TestResults\Unnamed project__2019-12-03T002733.html'
+========== End of log file ==========
